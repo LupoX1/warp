@@ -1,0 +1,9 @@
+[submodule "warp-common"]
+	path = warp-common
+	url = git@github.com:LupoX1/warp-common.git
+[submodule "warp-engine"]
+	path = warp-engine
+	url = git@github.com:LupoX1/warp-engine.git
+[submodule "warp-application"]
+	path = warp-application
+	url = git@github.com:LupoX1/warp-application.git
