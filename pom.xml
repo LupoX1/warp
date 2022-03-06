@@ -19,5 +19,6 @@
         <module>warp-common</module>
         <module>warp-engine</module>
         <module>warp-application</module>
+        <module>warp-editor</module>
     </modules>
 </project>
