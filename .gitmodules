@@ -7,3 +7,6 @@
 [submodule "warp-application"]
 	path = warp-application
 	url = git@github.com:LupoX1/warp-application.git
+[submodule "warp-editor"]
+	path = warp-editor
+	url = git@github.com:LupoX1/warp-editor.git
